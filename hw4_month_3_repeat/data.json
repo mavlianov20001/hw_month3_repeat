@@ -1,0 +1,45 @@
+[
+{
+     "age": "36",
+     "name": "Adlan",
+     "surName": "Amagov",
+     "img":"img/Amagov.png",
+     "Patronymics": "Mairabekovich"
+},
+{
+     "age": "28",
+     "name": "Khamzat",
+     "surName": "Chimaev",
+     "img":"img/Chimaev.png",
+     "Patronymics": "Khizarovich"
+},
+{
+     "age": "30",
+     "name": "Magomed",
+     "surName": "Ankalaev",
+     "img":"img/Ankalaev.png",
+     "Patronymics": "Alibulatovich"
+},
+{
+     "age": "29",
+     "name": "Movsar",
+     "surName": "Evloev",
+     "img":"img/Evloev.png",
+     "Patronymics": "Magomedovich"
+},
+{
+     "age": "32",
+     "name": "Zubayra",
+     "surName": "Tuhugov",
+     "img":"img/Tuhugov.png",
+     "Patronymics": "Alikhanovich"
+},
+{
+     "age": "48",
+     "name": "Sagid",
+     "surName": "Murtazaliev",
+     "img":"img/Murtazaliev.jpg",
+     "Patronymics": "Magomedovich"
+}
+
+]
